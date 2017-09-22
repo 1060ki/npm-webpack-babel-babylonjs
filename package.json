@@ -11,7 +11,7 @@
   "author": "Tomoki Ichikawa",
   "license": "Apache-2.0",
   "dependencies": {
-    "babylonjs": "^3.1.0-alpha3.4"
+    "babylonjs": "^3.0.7"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
